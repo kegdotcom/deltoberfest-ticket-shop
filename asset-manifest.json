@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/deltoberfest-ticket-shop/static/css/main.e6c13ad2.css",
-    "main.js": "/deltoberfest-ticket-shop/static/js/main.60790490.js",
-    "static/js/787.d23b9e85.chunk.js": "/deltoberfest-ticket-shop/static/js/787.d23b9e85.chunk.js",
-    "index.html": "/deltoberfest-ticket-shop/index.html",
-    "main.e6c13ad2.css.map": "/deltoberfest-ticket-shop/static/css/main.e6c13ad2.css.map",
-    "main.60790490.js.map": "/deltoberfest-ticket-shop/static/js/main.60790490.js.map",
-    "787.d23b9e85.chunk.js.map": "/deltoberfest-ticket-shop/static/js/787.d23b9e85.chunk.js.map"
+    "main.css": "/deltoberfest.shop/static/css/main.4647f29c.css",
+    "main.js": "/deltoberfest.shop/static/js/main.04c9c3d8.js",
+    "static/js/787.d23b9e85.chunk.js": "/deltoberfest.shop/static/js/787.d23b9e85.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/deltoberfest.shop/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/deltoberfest.shop/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/deltoberfest.shop/index.html",
+    "main.4647f29c.css.map": "/deltoberfest.shop/static/css/main.4647f29c.css.map",
+    "main.04c9c3d8.js.map": "/deltoberfest.shop/static/js/main.04c9c3d8.js.map",
+    "787.d23b9e85.chunk.js.map": "/deltoberfest.shop/static/js/787.d23b9e85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.60790490.js"
+    "static/css/main.4647f29c.css",
+    "static/js/main.04c9c3d8.js"
   ]
 }

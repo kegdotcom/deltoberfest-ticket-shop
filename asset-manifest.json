@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/deltoberfest.shop/static/css/main.4647f29c.css",
-    "main.js": "/deltoberfest.shop/static/js/main.04c9c3d8.js",
-    "static/js/787.d23b9e85.chunk.js": "/deltoberfest.shop/static/js/787.d23b9e85.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/deltoberfest.shop/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
-    "static/media/bootstrap-icons.woff2?": "/deltoberfest.shop/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
-    "index.html": "/deltoberfest.shop/index.html",
-    "main.4647f29c.css.map": "/deltoberfest.shop/static/css/main.4647f29c.css.map",
-    "main.04c9c3d8.js.map": "/deltoberfest.shop/static/js/main.04c9c3d8.js.map",
-    "787.d23b9e85.chunk.js.map": "/deltoberfest.shop/static/js/787.d23b9e85.chunk.js.map"
+    "main.css": "/static/css/main.72a5d59a.css",
+    "main.js": "/static/js/main.c4a48340.js",
+    "static/js/787.d23b9e85.chunk.js": "/static/js/787.d23b9e85.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/index.html",
+    "main.72a5d59a.css.map": "/static/css/main.72a5d59a.css.map",
+    "main.c4a48340.js.map": "/static/js/main.c4a48340.js.map",
+    "787.d23b9e85.chunk.js.map": "/static/js/787.d23b9e85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4647f29c.css",
-    "static/js/main.04c9c3d8.js"
+    "static/css/main.72a5d59a.css",
+    "static/js/main.c4a48340.js"
   ]
 }

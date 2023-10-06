@@ -27,11 +27,12 @@ export default function ShopItem({
         items: [{ id: id, quantity: quantity }],
       }),
     })
-      .then((res) => {
-        if (res.ok) return res.json();
-        return Promise.reject(res.json());
+      .then(async (res) => {
+        if (res.ok) return await res.json();
+        const json = await res.json();
+        return await Promise.reject(json);
       })
-      .then((url) => {
+      .then(({ url }) => {
         window.location = url;
       })
       .catch((e) => {
@@ -52,6 +53,7 @@ export default function ShopItem({
         type="number"
         min={1}
         max={20}
+        defaultValue={1}
         onChange={(e) => {
           setQuantity(parseInt(e.target.value));
         }}

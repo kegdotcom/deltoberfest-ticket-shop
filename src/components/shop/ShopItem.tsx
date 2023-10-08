@@ -16,7 +16,7 @@ export default function ShopItem({
 }: ShopItemProps) {
   const [quantity, setQuantity] = useState<number>(1);
 
-  const baseServerURL = "34.30.108.214:8080";
+  const baseServerURL = "https://34.30.108.214:8080";
   function checkout() {
     fetch(baseServerURL + "/checkout", {
       method: "POST",

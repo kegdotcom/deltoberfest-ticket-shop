@@ -16,7 +16,7 @@ export default function ShopItem({
 }: ShopItemProps) {
   const [quantity, setQuantity] = useState<number>(1);
 
-  const baseServerURL = "http://34.30.108.214:8080";
+  const baseServerURL = "https://api.deltoberfest.shop/checkout";
   function checkout() {
     fetch(baseServerURL + "/checkout", {
       method: "POST",
